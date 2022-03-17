@@ -11,6 +11,6 @@ PlaceMyFood is an Augmented Reality app that allows you to place 3D models of fo
     <p align="center">
         <img width = "190" height = "400" src = "https://github.com/pranshi112/PlaceMyFood/blob/main/Images/img2.jpeg">
     </p>
-    <li> You can hide the blue circle and the food buttons using the <strong>UI</strong> button on the top-right.</li>
-    <li> You can refresh the scene using the button given on the top-left.</li>
+    <li> Hide the blue circle and the food buttons using the <strong>UI</strong> button on the top-right.</li>
+    <li> Refresh the scene using the button given on the top-left.</li>
 </ul>
